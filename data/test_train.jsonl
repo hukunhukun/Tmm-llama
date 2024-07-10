@@ -1,0 +1,30 @@
+[
+    {
+      "id": "0",
+      "mol": "0.pt",
+      "conversations": [
+        {
+          "from": "human",
+          "value": "What \n<mol>"
+        },
+        {
+          "from": "gpt",
+          "value": "answer"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "mol": "1.pt",
+      "conversations": [
+        {
+          "from": "human",
+          "value": "<mol>\nHow many people are seen surfing in the image?"
+        },
+        {
+          "from": "gpt",
+          "value": "The image shows several people or a group of people surfing the waves in the ocean."
+        }
+      ]
+    }
+]
